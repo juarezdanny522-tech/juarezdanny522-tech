@@ -1,4 +1,5 @@
 # Presentacion
 My presentatión
 ## Sobre mi
--Estudiante de ingenieria de software
+- Nombre completo: Danny joel castro juarez
+- Edad: 16 años
