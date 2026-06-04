@@ -1,16 +1,16 @@
-# ¡Hola! Soy estudiante de desarrollo de software 👋
+# ¡Hola! Soy Danny Juárez 👋
 
 ## Sobre mí
-Actualmente estudio primer año de Desarrollo de software en el instituto nacional de San miguel Tepezontes
+Actualmente curso el primer año de Desarrollo de Software en el Instituto Nacional de San Miguel Tepezontes. Me apasiona el potencial del código para crear soluciones digitales y busco constantemente mejorar mis habilidades técnicas. Mi enfoque combina la disciplina profesional con el aprendizaje continuo en el área de desarrollo web.
 
 ## Lo que estoy aprendiendo
-En mi formación técnica actual, estoy trabajando con las siguientes tecnologías:
-* **Lenguajes y Estructuras:** HTML, CSS y JavaScrip.
-* **Herramientas de Desarrollo:** DOM, Bootstrap, Diseño responsive, Git y GitHub
-* **Desarrollo avanzado:** Pseint y App Inventor
+En mi formación actual, estoy trabajando con las siguientes tecnologías:
+* **Lenguajes y Herramientas:** HTML, CSS, JavaScript, DOM, Bootstrap y Diseño responsive.
+* **Control de versiones:** Git y GitHub.
+* **Desarrollo adicional:** Pseint y App Inventor.
 
 ## Proyecto actual
-Actualmente estoy trabajando en desarrollar paginas web interactivas para publicarlas y **venderlas**
+Web interactiva sobre un inventario de un taller 
 
 ## Meta técnica
-Ampliar mis conocimientos y desarrollar Webs y apps 
+Diseñar y crear webs interactivas que resuelvan problemas de la vida real y venderlas
